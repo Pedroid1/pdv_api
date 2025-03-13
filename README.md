@@ -27,7 +27,7 @@
   - git clone https://github.com/Pedroid1/pdv_api.git
   - cd pdv_api
 - Instale o .NET SDK (caso ainda não tenha instalado)
-  - [Download do SDK .NET](https://dotnet.microsoft.com/en-us/download/dotnet/6.0
+  - [Download do SDK .NET](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)
 - Execute o projeto
   - dotnet run
 
